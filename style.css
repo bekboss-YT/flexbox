@@ -1,0 +1,59 @@
+.boxes{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+
+.loremOne{
+    width: 600px;
+    height: 300px;
+    background-color: red;
+}
+
+.green{
+    background-color: rgb(39, 222, 39);
+    width: 620px;
+    height: 270px;
+}
+
+.blue{
+    width: 400px;
+    height: 670px;
+    background-color: blue;
+}
+.ota{
+    display: flex;
+    gap: 12px;
+}
+
+.pink{
+    background-color: rgb(193, 44, 159);
+    width: 300px;
+    height: 150px;
+}
+
+.aqua{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(60, 176, 176);
+}
+
+.gray{
+    width: 320px;
+    height: 300px;
+    background-color: gray;
+}
+
+.three{
+    margin-top: 5px;
+    margin-bottom: 12px;
+    display: flex;
+}
+
+.orange{
+    width: 620px;
+    height: 100px;
+    background-color: blueviolet;
+}
